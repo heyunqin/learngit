@@ -1,0 +1,15 @@
+babel-26275Bky
+config-err-KqVfsE
+emacs1000
+hsperfdata_kwb18112
+hsperfdata_root
+org.eclipse.cdt.dsf.gdb977363391137777565
+pdf-tools-26275ztB
+ssh-h8ADiPd6sK5v
+systemd-private-c90211a59b23462aa1e694539427cbb4-bolt.service-oRB3l1
+systemd-private-c90211a59b23462aa1e694539427cbb4-colord.service-5HBTl2
+systemd-private-c90211a59b23462aa1e694539427cbb4-fwupd.service-pNjwvk
+systemd-private-c90211a59b23462aa1e694539427cbb4-rtkit-daemon.service-Oc7BtJ
+systemd-private-c90211a59b23462aa1e694539427cbb4-systemd-resolved.service-e7x8Ia
+systemd-private-c90211a59b23462aa1e694539427cbb4-systemd-timesyncd.service-sJEMIS
+xauth-1000-_0
